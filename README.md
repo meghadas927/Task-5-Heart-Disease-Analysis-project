@@ -1,5 +1,7 @@
 Heart Disease Analysis Project
+
 Objective
+
 The Heart Disease Analysis project aims to explore a dataset related to heart disease to identify key factors contributing to its occurrence. By employing data analytics techniques, the goal is to predict the likelihood of heart disease based on various health indicators, such as age, cholesterol levels, blood pressure, and other relevant features. This analysis strives to offer insights that could aid in early diagnosis and prevention strategies.
 ________________________________________
 Responsibilities
