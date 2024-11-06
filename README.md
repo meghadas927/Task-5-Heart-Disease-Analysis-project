@@ -14,16 +14,29 @@ Responsibilities
 ________________________________________
 Research Questions
 1.	Heart Disease Prevalence
+
 	How many people have heart disease versus those who do not?
-2.	Gender and Heart Disease
+
+3.	Gender and Heart Disease
+
 	Which gender has a higher prevalence of heart disease?
-3.	Chest Pain Types by Gender
+
+5.	Chest Pain Types by Gender
+
 	Which types of chest pain are most common among each gender?
-4.	Chest Pain and Heart Disease Correlation
+
+7.	Chest Pain and Heart Disease Correlation
+
 	Which chest pain type is most closely linked to heart disease?
-5.	Resting Blood Pressure Variations
+
+9.	Resting Blood Pressure Variations
+
 	How does resting blood pressure differ between patients with and without heart disease?
-6.	Cholesterol and Heart Disease
+
+11.	Cholesterol and Heart Disease
+
 	Is there a correlation between higher cholesterol levels and an increased likelihood of heart disease?
-7.	Exercise-Induced Angina
+
+13.	Exercise-Induced Angina
+
 	How does exercise-induced angina (exang) vary between those with and without heart disease?
